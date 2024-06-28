@@ -1,0 +1,9 @@
+<template>
+    <div>
+        <Header/>
+        <slot/>
+        <Footer/>
+        <Copyright/>
+        <BackToTop/>
+    </div>
+</template>
